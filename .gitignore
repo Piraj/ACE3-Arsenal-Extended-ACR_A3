@@ -3,3 +3,8 @@ sqlite3.db-journal
 sqlite3.db-wal
 sqlite3.db-shm
 .vscode/*
+*.pbo
+.hemttout
+hemtt
+hemtt.exe
+*.biprivatekey
