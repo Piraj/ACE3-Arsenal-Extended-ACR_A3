@@ -1,0 +1,9 @@
+name = "ACE3 Arsenal Extended - ACR_A3"
+prefix = "aceax_compat_acr_a3"
+author = "Piraj"
+mainprefix = "x"
+
+[version]
+major = 1
+minor = 0
+patch = 0
